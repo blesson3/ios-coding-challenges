@@ -26,13 +26,14 @@ Overall, please complete this challenge within ≈2 weeks of receiving it.
 1. Create a simple app with a text entry field, and as you type it will display autocomplete results from the Google Places JSON API endpoint (i.e. not using their built-in autocomplete SDK). 
   - **Important Note:** For this challenge, you cannot use Google's built in GMSPlacesClient:autocompleteQuery code to return parsed place results for you. You must instead use the JSON API provided and parse the return results yourself.
 2. Once the user selects one of the results, transition to a new view showing basic information pulled from the Places JSON API. The way you display the results and detailed view is up to you.
+3. Come up with a few questions to ask about the design of the app you're creating. The audience is designers.
 
 **Note**: You should build this as if it were a real project that you had to maintain for the foreseeable future. You should ensure the user experience is balanced with the robustness and cleanliness of your code. We left this open ended, but it doesn't mean you should rush through it and just send something functional without any polish. This should be a direct representation of who you are.
 
 When you're all done: 
 - Commit it to a repo in your personal Github account that we can access (or zip the project and host it somewhere for us to download, _including_ the git history)
 - If there are any special instructions (besides running `pod install` for Cocoapods) to get your project running, please let us know
-- Shoot us a quick email letting us know you're done and we'll clone it and run it from our machines
+- Shoot us a quick email or message us in Angel.co letting us know you're done and we'll clone it and run it from our machines
 
 ### Google Places API
 
